@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    width: auto;
+    padding: 25px;
+    background-color: #0f5d8d;
+    text-align: center;
+    color: rgb(240, 242, 244);
+    height: 50vh;
+    display: auto;
+}
+
+.layout p {
+    margin-top: 50px;
+    margin-right: 100px;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.Follow{
+    margin-top: 70px;
+}
+.contact img{
+    width: 80px;
+    height: 80px;
+}

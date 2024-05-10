@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.About{
+    width: auto;
+    margin: 50px;
+    height: 80vh;
+    margin-left: 40px;
+    padding: 25px;
+    border: 3px solid #31a8f3;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(73, 80, 87);
+}
+.About h3 {
+    margin-top: 20px;
+}
+.About h2{
+    margin-top: 40px;
+}
+.About p{
+    margin-top: 20px;
+}
+.skill{
+    position: relative;
+    text-align: center;
+}
+.coding{
+    position: absolute;
+    margin-left: 350px;
+    font-size: larger;
+    text-align: left;
+}
+.design{
+    position: absolute;
+    margin-left: 850px;
+    font-size: larger;
+    text-align: left;
+}
